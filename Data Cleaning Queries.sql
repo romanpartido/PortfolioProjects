@@ -1,6 +1,6 @@
 /* 
 
-CLeaning Data in SQL Quweiwa
+CLeaning Data in SQL Queries
 
 */
 
