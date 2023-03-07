@@ -10,7 +10,7 @@ From PortfolioProject..CovidDeaths
 Where continent is not null
 order by 3,4
 
--- Selecting Data to start wih
+-- Selecting Data to start with
 
 Select Location, date, total_cases, new_cases, total_deaths, population
 From PortfolioProject..CovidDeaths
